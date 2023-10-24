@@ -1,4 +1,5 @@
 ### Hi there, This is Hang Jinglue, NICE TO MEET YOU!👋
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -9,10 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlllll&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjlllll&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hjlllll&repo=convoychat" />
+</a>
