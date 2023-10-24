@@ -1,4 +1,4 @@
-### Hi there, THIS IS Hang Jinglue, NICE TO MEET YOU!👋
+### Hi there, This is Hang Jinglue, NICE TO MEET YOU!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlllll&show_icons=true&theme=radical)
 
