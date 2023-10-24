@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, THIS IS Hang Jinglue, NICE TO MEET YOU!👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlllll)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlllll)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hjlllll/hjlllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
